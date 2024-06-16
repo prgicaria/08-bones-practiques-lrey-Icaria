@@ -14,3 +14,5 @@ bones_practiques.py
 ```
 
 El lliurament s'ha de fer a: <https://classroom.github.com/a/gUdmUguk>
+
+**Nota: tasca de 5 punts.**
